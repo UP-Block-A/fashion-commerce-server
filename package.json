@@ -1,0 +1,15 @@
+{
+  "name": "fashion-commerce-server",
+  "version": "1.0.0",
+  "description": "commerce-fashion-server project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "commerce",
+    "fashion"
+  ],
+  "author": "up-it-commerce",
+  "license": "ISC"
+}
